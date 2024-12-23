@@ -9,6 +9,5 @@
     "url": "https://github.com/SunitRaut/Lightweight-CD74HC4067-Arduino"
   },
   "frameworks": "arduino",
-  "platforms": "atmelavr",
-  
+  "platforms": "atmelavr"
 }
