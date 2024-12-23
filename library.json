@@ -6,7 +6,7 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/SunitRaut/Lightweight-CD74HC4067-Arduino"
+    "url": "https://github.com/Dracozny/Lightweight-CD74HC4067-Arduino"
   },
   "frameworks": "arduino",
   "platforms": "atmelavr"
